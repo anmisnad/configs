@@ -1,0 +1,12 @@
+{
+  "window.menuBarVisibility": "toggle",
+  "workbench.activityBar.visible": false,
+  "editor.lineNumbers": "relative",
+  "editor.formatOnSave": true,
+  "editor.rulers": [79],
+  "python.linting.flake8Enabled": true,
+  "python.linting.enabled": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
